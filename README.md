@@ -2,7 +2,7 @@
 <h1 align="center"> 👋👋 H!! 👋👋</h1>
 
 <h1 align="center"> I m Inder </h1>
-<h2 align="center"> Lead Fronteend Developer | Soulution designer | Traveller | Photographer </h2>
+<h2 align="center"> Lead Frontend Developer | Solution designer | Angular </h2>
 <h3 align="center">Inspired by wonderful nature around us</h3>
 <h3 align="center">Into Travelling :car: & Photography :camera:</h3>
 
@@ -10,18 +10,26 @@
     <a href="https://www.linkedin.com/in/singh-inderpreet/" target="_blank"><img src="https://img.shields.io/badge/-Inder-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/inderpreet_mhl" target="_blank"><img src="https://img.shields.io/badge/-@inderpreet_mhl-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/inder__preet" target="_blank"><img src="https://img.shields.io/badge/-Inder-E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
+    <a href="https://500px.com/p/inderpreet_singh?view=photos" target="_blank"><img src="https://img.shields.io/badge/-500px-critical?style=flat-square&logo=&logoColor=red"/></a>
+    <a href="https://www.npmjs.com/~singh_inderpreet" target="_blank"><img src="https://img.shields.io/badge/-NPM-important?style=flat-square&logo=npm&logoColor=important"/></a>
+    <a href="https://inderpreet-singh.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-9cf?style=flat-square&logo=Medium&logoColor=black"/></a>
 </p>
 
 <h4 align="center">Having over ten years of experience in the Design, Implementation, and Testing phases of the SDLC during the development of
 applications. Excellent skills in object-oriented design and development for both web :earth_africa: and mobile :iphone: platforms. Dedicated and selfmotivated
 with a solid educational background in Computer :computer: Engineering</h4>
 
+<br/>
 
-  
+##### Checkout TicTacToe Engine NPM Repo -  <a href="https://www.npmjs.com/package/code-tic-tac-toe" target="_blank">code-tic-tac-toe</a>
+
+<br/>
 
 ##### Tech Stack
+![Angular](https://img.shields.io/badge/-Angular-071a2c?style=flat-square&logo=Angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-071a2c?style=flat-square&logo=typescript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-071a2c?style=flat-square&logo=ReactJS)
 ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-071a2c?style=flat-square&logo=iOS)
 ![Swift](https://img.shields.io/badge/-Swift-071a2c?style=flat-square&logo=iOS)
 ![HTML](https://img.shields.io/badge/-HTML-071a2c?style=flat-square&logo=HTML&logoColor=ffffff)
